@@ -1,6 +1,6 @@
 # Contributors
 
-CREDITS.md is an auto-generated file to recognize the contributors who have made different types of significiant code and non-code contribution to this project. 
+CONTRIBUTORS.md is an auto-generated file to recognize the contributors who have made different types of significiant code and non-code contribution to this project. 
 
 ## Committers [View All](https://merico.build/projects/repository/overview?gitUrl=git://github.com/brave/brave-browser.git)
 ### First Committers
